@@ -1,3 +1,3 @@
 # Bonanza
 
-This is a markdownd file for simulating skills markdown.
+This is a markdown file for simulating skills markdown.
